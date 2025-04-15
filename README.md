@@ -15,6 +15,35 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Github Stats - Languages Skills - Tools 🤝 </h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,r" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,git,obsidian,replit,vscode," />
+  </a>
+</p>
+
+</summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/Corblack-XXIV">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Corblack-XXIV&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/Corblack-XXIV">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corblack-XXIV&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
+<br>
+
+
 <!---
 Corblack-XXIV/Corblack-XXIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

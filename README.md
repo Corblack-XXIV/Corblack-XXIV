@@ -22,8 +22,6 @@
 <div align="center"  class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nicortesiv">
 	   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a style="margin-left: 10px;"  target="_blank" href="nicortespiv@gmail.com">
-	   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a style="margin-left: 10px;"  target="_blank" href="https://www.instagram.com/corblack.donuts/">
 	   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>

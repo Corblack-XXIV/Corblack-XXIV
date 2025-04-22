@@ -15,7 +15,6 @@
 # About Me:
 <br>- 🎓 Student at the National University of Colombia (UNAL).<br>- 💻 I like programming and creating electronic projects with Arduino.<br>- ⚛️ I love physics and everything related to it.<br>- 📚 I am always looking to learn new things.<br>- 🏔️ I like hiking and climbing snowy mountains<br>- 🤝 I love working in a team<br>- 🎮 I like video games
 
-<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JlbjBhaXkxczEzcGU0MjBoZXZqcnBzaWUxNmczaXZkMXF2dzA1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6Ws7Z28QImKSeEeRo/giphy.gif" width="50" height="50" style="margin-right: 10px;">Socials 🌐</h3>
 

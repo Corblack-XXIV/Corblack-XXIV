@@ -8,13 +8,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Corblack-XXIV/Corblack-XXIV/output/github-contribution-grid-snake.svg">
 </picture>
 
+# About Me:
+
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29ldzNsdWxmd3NjaDhxc3I4cG9ub2lpend6Y3p1b2QwYnlnZWNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 </a>
 
-# About Me:
 <br>- 🎓 Student at the National University of Colombia (UNAL).<br>- 💻 I like programming and creating electronic projects with Arduino.<br>- ⚛️ I love physics and everything related to it.<br>- 📚 I am always looking to learn new things.<br>- 🏔️ I like hiking and climbing snowy mountains<br>- 🤝 I love working in a team<br>- 🎮 I like video games
-
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JlbjBhaXkxczEzcGU0MjBoZXZqcnBzaWUxNmczaXZkMXF2dzA1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6Ws7Z28QImKSeEeRo/giphy.gif" width="50" height="50" style="margin-right: 10px;">Socials 🌐</h3>
 
